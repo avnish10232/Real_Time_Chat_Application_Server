@@ -2,7 +2,7 @@
 
 ### Introduction
 This repo consists of the **Backend** part of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
-You can find the frontend repo [here](https://github.com/tsengm6h6/chat-app-client-v2).
+You can find the frontend repo [here](https://github.com/avnish10232/Real_Time_Chat_Application).
 
 ### Feature
 - JWT Authentication
